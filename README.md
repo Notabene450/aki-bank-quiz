@@ -1,2 +1,5 @@
-# aki-bank-quiz
-Acute Kidney Injury · AKI Bank · Quiz
+# Acute Kidney Injury · AKI Bank · Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
